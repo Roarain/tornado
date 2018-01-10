@@ -6,7 +6,7 @@
 @author: Roarain
 @time: 2018/1/9 9:24
 @contact: welovewxy@126.com
-@file: hello.py
+@file: zfzx.py
 @license: Apache Licence
 @site: 
 @software: PyCharm
@@ -14,7 +14,7 @@
 
 import logging
 
-logging.basicConfig(filename='hello.log', level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(filename='zfzx.log', level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 # logging.disable(level=logging.DEBUG)
 
 import tornado.ioloop
